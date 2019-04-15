@@ -18,9 +18,9 @@
     "url": "https://github.com/TryGhost/gscan/issues"
   },
   "author": {
-    "name": "Ghost Foundation",
-    "email": "hello@ghost.org",
-    "web": "https://ghost.org"
+    "name": "2048",
+    "email": "mike_joa",
+    "web": "https://baidu.com"
   },
   "main": "lib",
   "license": "MIT",
@@ -33,7 +33,7 @@
     "gscan": "./bin/cli.js"
   },
   "relese":{
-  "express": "^4.16.2",
+  "express": "online",
    "lodash": "4.17.4"
   },
   "dependencies": {
